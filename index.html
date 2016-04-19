@@ -1,74 +1,42 @@
 ---
 layout: page
-title: ""
-subtitle: "University of Hawaii Bioinformatics Core"
-
+title: Contact Us
+subtitle: ""
 ---
-
-<div class="main-explain-area jumbotron" style="
-    padding-bottom: 20px;
-    padding-top: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-">
-  <p style="margin-bottom: 0px;">
-    The bioinformatics Core provides services to researchers
-    throughout the University of Hawaii System on a fee-for-service or
-    cost recovery basis. Our expertise spans
-    various subfields of bioinformatics, including NGS data analysis
-    and machine learning, allowing us to help researchers tackle the
-    analysis of popular protocols or conceive custom de-novo pipelines
-    and tools. For more information, please refer to
-    our <a href="/services">services</a> section
-    or <a href="/contact">contact us</a>.
-
-  </p>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">News and announcements</div>
-   <div class="panel-body">
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}  
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-  
-    <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+<form class="form-horizontal" role="form" action="https://getsimpleform.com/messages?form_api_token=480102d684c0f23b9b1d57a126006e8e" method="post">
+  <input type='hidden' name='redirect_to' value='http://127.0.0.1:4000/contact/thankyou.html' />
+  <div class="form-group">
+    <label for="name" class="col-sm-2 control-label">Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
     </div>
-  
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
-   </div>
-</div>
-  
-</div>
-
+  </div>
+  <div class="form-group">
+    <label for="email" class="col-sm-2 control-label">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+    </div>
+  </div>
+    <div class="form-group">
+    <label for="department" class="col-sm-2 control-label">department</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="department" name="department" value="">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="message" class="col-sm-2 control-label">Message</label>
+    <div class="col-sm-10">
+      <textarea class="form-control" rows="4" name="message"></textarea>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-10 col-sm-offset-2">
+      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-10 col-sm-offset-2">
+      <! Will be used to display an alert to the user>
+    </div>
+  </div>
+</form>

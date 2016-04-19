@@ -1,15 +1,38 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: ""
+subtitle: "University of Hawaii Bioinformatics Core"
+
 ---
 
+<div class="main-explain-area jumbotron" style="
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+">
+  <p style="margin-bottom: 0px;">
+    The bioinformatics Core provides services to researchers
+    throughout the University of Hawaii System on a fee-for-service or
+    cost recovery basis. Our expertise spans
+    various subfields of bioinformatics, including NGS data analysis
+    and machine learning, allowing us to help researchers tackle the
+    analysis of popular protocols or conceive custom de-novo pipelines
+    and tools. For more information, please refer to
+    our <a href="/services">services</a> section
+    or <a href="/contact">contact us</a>.
+
+  </p>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">News and announcements</div>
+   <div class="panel-body">
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-	
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
@@ -22,7 +45,7 @@ subtitle: This is where I will tell my friends way too much about me
     </p>
   
     <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+      {{ post.content | truncatewords: 50 | strip_html}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
   
@@ -44,3 +67,8 @@ subtitle: This is where I will tell my friends way too much about me
   {% endif %}
 </ul>
 {% endif %}
+   </div>
+</div>
+  
+</div>
+

@@ -9,7 +9,8 @@ Bioinformatics-Core Software
 ----------------------------
 
 | [Intgroomer]()  |  Program for batch extracting trimming of construct sequences. 
-| [Seanome]()     |  Analysis of high-throughput ezRad data.
+| [Seanome](https://github.com/UH-Bioinformatics/Seanome)     |  Analysis of high-throughput ezRad data.
+| [Symtyper](https://github.com/UH-Bioinformatics/symTyper)   |  
 
 
 

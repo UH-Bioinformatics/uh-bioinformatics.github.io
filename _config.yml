@@ -27,7 +27,7 @@ navbar-links:
   About: "about"
   Services: "services"
   Resources:
-    - Software: ""
+    - Software: "software"
     - Tutorials: "tutorials"
     - Interesting links: ""
   Contact: "contact"

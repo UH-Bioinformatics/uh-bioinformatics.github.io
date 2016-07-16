@@ -25,7 +25,10 @@ description: University of Hawaii - CYBERINFRASTRUCTURE
 navbar-links:
   Home: ""
   About: "about"
-  Services: "services"
+  Services: 
+    - Support: "services"
+    - Training: "training"
+
   Resources:
     - Software: "software"
     - Tutorials: "tutorials"

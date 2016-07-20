@@ -14,10 +14,10 @@ biomedical research, ecology, microbiology, to cite only a few
 fields. To adapt and leverage the deluge of genomics data that is
 commonly generate in high-throughput sequencing methods, new
 phylogenetics methods are continuously proposed. To familiarize users
-with popular approaches and new development in this field, UH
-Cyberinfrastructure Bioinformatice Core, in conjunction with the
-Centers of Biomedical Research Excellence (COBRE-PCEIDR) and the
-Research Centers for Minority Institutions (RCMI-BRIDGES) is offering
+with popular approaches and new development in this field, [UH
+Cyberinfrastructure](http://www.hawaii.edu/its/ci/ "Cyberinfrastructure") Bioinformatice Core, in conjunction with the
+Centers of Biomedical Research Excellence ([COBRE-PCEIDR](http://pceidr.jabsom.hawaii.edu/ "COBRE-PCEID")) and the
+Research Centers for Minority Institutions ([RCMI-BRIDGES](http://rcmi-bridges.jabsom.hawaii.edu/ "RCMI-BRIDGES")) is offering
 a half-day introductory workshop on phylogenetics and
 phylogenomics. This short overview is targeted towards graduate
 students, post-docs, researchers and faculty members of the University
@@ -35,7 +35,7 @@ A detailed workshop schedule is available [here](https://www.dropbox.com/s/9nobe
 
 ### Date and Location
 
-The workshop September 9th, 2016 from 9 am to 1 pm in the Information Technology Center building (ITS) on Manoa Campus (2520 Correa Road, Honolulu, Hawaii 96822), room 105A.
+The workshop September 9th, 2016 from 9:00 AM to 1:00 PM in the Information Technology Center building (ITS) on Manoa Campus (2520 Correa Road, Honolulu, Hawaii 96822), room 105A.
 
 ### For more information, please contact: 
 

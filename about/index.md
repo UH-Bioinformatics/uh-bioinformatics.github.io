@@ -44,13 +44,11 @@ Who were are
 Location
 --------
 
-The Bioinformatics Core is located in the <b>XYZ</b>
-department. Additionally the Core has a dedicated lab space in the
-[Department of Tropical Medicine, Medical Microbiology, and
-Pharmacology](http://manoa.hawaii.edu/tropicalmedicine/ "JABSOM"). The
-lab is equipped with three workstations, offering access to various
-commercial and open source software.
-
+The Bioinformatics Core is located in the Information Technology
+Center building (ITS) on Manoa Campus. Additionally the Core has a
+dedicated lab space in the [Department of Tropical Medicine, Medical
+Microbiology, and
+Pharmacology](http://manoa.hawaii.edu/tropicalmedicine/ "JABSOM").
 
 
 Resources
@@ -63,4 +61,8 @@ Coming soon
 #### Software resources
 
 The core provides access to various open source and commercial
-software. For an exhaustive list, see the <a href="">Infrastucture Support</a> page. Some computationally intensive applications have been configured to run on the University of Hawaii HPC ( See <a href="">Cyber Infrastructure information page</a> for details on how to obtain an account).
+software. For an exhaustive list, see the <a href="">Infrastucture
+Support</a> page. Some computationally intensive applications have
+been configured to run on the University of Hawaii HPC ( See <a
+href="">Cyber Infrastructure information page</a> for details on how
+to obtain an account).

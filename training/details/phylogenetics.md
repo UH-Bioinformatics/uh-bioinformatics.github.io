@@ -3,10 +3,10 @@ layout: page
 title: 
 subtitle: 
 ---
+<p align="center">
+<img src="/img/workshops/phylogeny_logo.png" width="500">
+</p>
 
-
-An Introduction to Molecular Phylogenetic Inference
----------------------------------------------------
 
 Phylogenetic inference has become a core part of any modern
 evolutionary analysis and has found important applications in
@@ -33,17 +33,13 @@ A detailed workshop schedule is available [here](https://www.dropbox.com/s/9nobe
 
 ### Date and Location
 
-The workshop will be held on September 9th, 2016 from 9 am to 1 pm in the Information Technology Center building (ITS) on Manoa Campus (2520 Correa Road, Honolulu, Hawaii 96822), room 105A.
-
-
-
+The workshop September 9th, 2016 from 9 am to 1 pm in the Information Technology Center building (ITS) on Manoa Campus (2520 Correa Road, Honolulu, Hawaii 96822), room 105A.
 
 ### For more information, please contact: 
 
-Kirill Vinnikov: vinni@hawaii.edu
-or 
-Mahdi Belcaid: mahdi@hawaii.edu
-
+Kirill Vinnikov: vinni \<at\> hawaii edu <br/>
+or <br/>
+Mahdi Belcaid: mahdi \<at\> hawaii  edu
 
 ### Registration
 

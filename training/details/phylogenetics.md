@@ -15,11 +15,13 @@ fields. To adapt and leverage the deluge of genomics data that is
 commonly generate in high-throughput sequencing methods, new
 phylogenetics methods are continuously proposed. To familiarize users
 with popular approaches and new development in this field, UH
-Cyberinfrastructure, in conjunction with Centers of Biomedical
-Research Excellence (COBRE) is offering a half-day introductory
-workshop on phylogenetics and phylogenomics. This short overview is
-targeted towards graduate students, post-docs, researchers and faculty
-members of the University of Hawaii System.
+Cyberinfrastructure Bioinformatice Core, in conjunction with the
+Centers of Biomedical Research Excellence (COBRE-PCEIDR) and the
+Research Centers for Minority Institutions (RCMI-BRIDGES) is offering
+a half-day introductory workshop on phylogenetics and
+phylogenomics. This short overview is targeted towards graduate
+students, post-docs, researchers and faculty members of the University
+of Hawaii System.
 
 The workshop will review a broad range of topics ranging from
 elementary concepts such as sequence alignment, and evolutionary model

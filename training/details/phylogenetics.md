@@ -32,6 +32,31 @@ tools.
 
 A detailed workshop schedule is available [here](https://www.dropbox.com/s/9nobek34rcbkcvp/PHYLOGENY_WORKSHOP_SCHEDULE.docx?dl=0 "Workshop Schedule"). Please note that this schedule is subject to change.
 
+### Required and recommended tools
+
+#### Required Programs
+
+| Program |URL|
+| -------------|:-------------|
+| MEGA      	 	| [http://www.megasoftware.net/](http://www.megasoftware.net/)						|
+| Sequence Matrix      	| [http://gaurav.github.io/taxondna/](http://gaurav.github.io/taxondna/)					|
+| MrBayes      		| [http://mrbayes.sourceforge.net/download.php](http://mrbayes.sourceforge.net/download.php)				|
+| jmodeltest      	| [http://goo.gl/lswTBG](https://drive.google.com/drive/folders/0ByrkKOPtF_n_OUs3d0dNcnJPYXM)	|
+|  BEAST 2.4.*      	| [http://beast2.org/](http://beast2.org/) |
+|  Tracer      		| [http://tree.bio.ed.ac.uk/software/tracer/](http://tree.bio.ed.ac.uk/software/tracer/) |
+|  FigTree      	| [http://tree.bio.ed.ac.uk/software/figtree/](http://tree.bio.ed.ac.uk/software/figtree/) |
+|  PartitionFinder      | [http://www.robertlanfear.com/partitionfinder/](http://www.robertlanfear.com/partitionfinder/) |
+
+
+#### Recommended Programs
+
+| Program     |URL|
+| -----------------------------|:-------------|
+| TextWrangler (<small>Mac OS X</small>)  | [http://www.barebones.com/products/textwrangler/](http://www.barebones.com/products/textwrangler/) |
+| Notepad++ (<small>Windows</small>)      | [https://notepad-plus-plus.org](https://notepad-plus-plus.org) |
+| RAxML                    | [http://sco.h-its.org/exelixis/web/software/raxml/index.html](http://sco.h-its.org/exelixis/web/software/raxml/index.html) |
+
+
 
 ### Date and Location
 

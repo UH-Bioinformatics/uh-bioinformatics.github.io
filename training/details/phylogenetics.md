@@ -8,7 +8,7 @@ subtitle:
 </p>
 
 
-[Slides](https://github.com/vinni-bio/WS-20160909/tree/master/Slides)
+[Slides](https://github.com/vinni-bio/WS-20160909/tree/master/Slides)<br/>
 [Tutorials](https://github.com/vinni-bio/WS-20160909)
 
 

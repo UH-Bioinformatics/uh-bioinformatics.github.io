@@ -38,8 +38,17 @@ and maintenance.
 Team
 ----
 
-Who were are
+Gwen Jacobs
+Core Director
 
+Mahdi Belcaid
+Associate Core Director Project Leader
+
+Kirill Vinnikov
+Bioinformatician
+
+Greg Burgess
+Software Engineer
 
 Location
 --------

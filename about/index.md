@@ -42,7 +42,7 @@ Gwen Jacobs<br/>
 Core Director
 
 Mahdi Belcaid<br/>
-Associate Core Director Project Leader
+Associate Core Director -- Project Leader
 
 Kirill Vinnikov<br/>
 Bioinformatician

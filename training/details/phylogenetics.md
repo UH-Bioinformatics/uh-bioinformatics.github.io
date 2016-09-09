@@ -8,6 +8,11 @@ subtitle:
 </p>
 
 
+[Slides](https://github.com/vinni-bio/WS-20160909/tree/master/Slides)
+[Tutorials](https://github.com/vinni-bio/WS-20160909)
+
+
+
 Phylogenetic inference has become a core part of any modern
 evolutionary analysis and has found important applications in
 biomedical research, ecology, microbiology, to cite only a few

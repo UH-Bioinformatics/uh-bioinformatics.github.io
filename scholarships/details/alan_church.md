@@ -21,7 +21,7 @@ To Support UH-HIMB undergraduate students studying marine biology of the Hawaiia
 
 * Recipient must be a full-time student
 * <font color='red'>OTHER INFO GOES HERE -- NEED Info from Ku‘ulei</font>
-* Your application will be reviewed upon reception of a reference letter submitted on your behalf by an HIMB faculty. The letter should be uploaded [here](alan_church_form_upload)
+* Your application will be reviewed upon reception of a reference letter submitted on your behalf by an HIMB faculty. The letter should be uploaded [here](../details/alan_church_form_upload)
 
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>

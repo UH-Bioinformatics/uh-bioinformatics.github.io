@@ -4,9 +4,7 @@ title:
 subtitle: 
 ---
 
-# The Alan Church Environmental Steward SOEST Scholarship
-
-## Reference letter upload form
+# Reference letter upload form
 
 Please upload upload your reference letter using the form below.
 

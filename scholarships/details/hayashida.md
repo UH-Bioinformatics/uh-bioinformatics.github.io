@@ -4,7 +4,7 @@ title:
 subtitle: 
 ---
 
-#  2015 Carol Ann & Myron K. Hayashida  Scholarship Award
+#  Carol Ann & Myron K. Hayashida  Scholarship Award
 
 
 #### Purpose:  

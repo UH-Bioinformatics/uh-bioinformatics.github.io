@@ -6,6 +6,7 @@ subtitle:
 
 # The Colonel Willys E. Lord, DVM & Sandina L. Lord Endowed Scholarship
 
+-----------------------------------------------------------------------------
 
 #### Purpose:  
 

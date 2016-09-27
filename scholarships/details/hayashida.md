@@ -6,6 +6,7 @@ subtitle:
 
 #  Carol Ann & Myron K. Hayashida  Scholarship Award
 
+-----------------------------------------------------------------------------
 
 #### Purpose:  
 

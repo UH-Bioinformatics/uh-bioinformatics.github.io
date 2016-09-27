@@ -30,6 +30,10 @@ To Support UH-HIMB undergraduate students studying marine biology of the Hawaiia
 
 * Your application will be reviewed upon reception of a reference letter submitted on your behalf by an HIMB faculty. The letter should be uploaded [here](../faculty_form_upload)
 
+
+
+#### Application Form
+
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>
 <script>Cognito.load("forms", { id: "3" });</script>

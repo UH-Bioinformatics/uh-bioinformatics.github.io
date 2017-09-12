@@ -29,3 +29,7 @@ The purpose of this fund is to assist students at the Hawai'i Institute of Marin
 
 #### Application Form
 
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>
+<script>Cognito.load("forms", { id: "6" });</script>
+</div>

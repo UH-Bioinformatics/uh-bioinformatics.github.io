@@ -25,5 +25,9 @@ To provide scholarships to assist students, undergraduate and graduate at the Ha
 
 #### Application Form
 
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>
+<script>Cognito.load("forms", { id: "5" });</script>
+</div>
 
 

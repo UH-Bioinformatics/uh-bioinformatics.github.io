@@ -1,10 +1,8 @@
 ---
 layout: page
-title: # Paul L. Jokiel Scholarship Endowed Fund 
+title: Paul L. Jokiel Scholarship Endowed Fund for Graduate Student Research in Climate Change 
 subtitle: 
 ---
-
-# Paul L. Jokiel Scholarship Endowed Fund for Graduate Student Research in Climate Change
 
 
 #### Purpose:  

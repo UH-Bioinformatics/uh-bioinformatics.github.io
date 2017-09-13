@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: # Paul L. Jokiel Scholarship Endowed Fund 
 subtitle: 
 ---
 

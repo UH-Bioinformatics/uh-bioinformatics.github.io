@@ -5,20 +5,30 @@ subtitle:
 ---
 
 
-#### Purpose:  
+#### Purpose:
 
-To Support UH-HIMB undergraduate students studying marine biology of the Hawaiian Islands with an annual award  of $800 for tuiotion and registration fees (incuding up to $300 for students' project supplies if paid directly to the vendor, and upon uproval of from the student's advisor)
+The purpose of this fund is to provide support for undergraduate or graduate students
+pursuing a degree at the Hawai‘i Institute for Marine Biology, School of Ocean & Earth Sciences &
+Technology at the University of Hawai‘i at Mānoa, who are conducting research on impacts of climate
+change on coral reefs. Other areas of research may include coral reef ecology and coral reef
+monitoring.
+
+Funds shall be used for costs associated with attendance (e.g. tuition, books, fees, etc.) and/or
+research equipment, supplies, travel related to research, publishing or vessel costs, or conference
+registration fees and travel. Amount will vary annually.
 
 #### Criteria:
 
-* Recipient shall have a cumulative grade point average of 2.5 or above.
+* Recipients must be enrolled full‐time or part‐time as undergraduate or graduate students
+pursuing a degree at HIMB, UH.
 
-* First preference will be given to students of Hawaiian ancestry; however, non-native Hawaiian, Pacific Islander, Californian or lastly other
- U.S. mainland student, if no Hawaiian student qualifies as specified.
+* Conducting research on impacts of climate change on coral reefs. Other areas of research may
+include coral reef ecology and coral reef monitoring.
 
-* Recipient must be full-time, junior or senior enrolled at the University of Hawaii pursuing courses of study in SOEST related to research or monitoring of endangered or threatened marine mammals and turtles within and surrounding the Main Hawaiian Islands (MHI). If there is no qualifying student project, an alternative project could concern coral population surrounding the MHI, Kaneohe Bay, or Coconut Island.
+* Satisfactory academic merit and progress toward degree as determined by the selection
+committee.
 
-* Students studying whales or green sea turtle populations, or coral reefs, within and surrounding the Main Hawaiian Island (MHI) shall have priority.  The donor is particularly interested in the effects on the MHI aquatic creatures of climate change, ocean chemistry, marine traffic and sonar testing, aquatic invasive species, effect of human activity on habitat, protection, predation/destruction causes and effect, altered migration/foraging patterns, coral habitat/symbiosis, food availability, physiology and quality of life.  Other projects studies in the MHI of these creatures are also acceptable.
+* Some degree of financial need, not necessarily determined by federal guidelines.
 
 * Your application will be reviewed upon reception of a reference letter submitted on your behalf by an HIMB faculty. The letter should be uploaded [here](../faculty_form_upload)
 

@@ -6,7 +6,7 @@ subtitle:
 
 # Reference letter upload form
 
-Please upload upload your reference letter using the form below.
+Please upload upload your reference letter in __PDF__ __format__ using the form below.
 
 
 

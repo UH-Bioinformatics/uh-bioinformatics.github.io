@@ -36,7 +36,12 @@ committee.
 
 #### Application Form
 
+Applications are closed.
+
+<!--
+
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>
 <script>Cognito.load("forms", { id: "7" });</script>
 </div>
+-->

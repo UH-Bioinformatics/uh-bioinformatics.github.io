@@ -34,8 +34,11 @@ To Support UH-HIMB undergraduate students studying marine biology of the Hawaiia
 
 #### Application Form
 
+Applications are closed.
 
+<!--
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/lsYMFXl4X06ptGHB72ODFA"></script>
 <script>Cognito.load("forms", { id: "3" });</script>
 </div>
+-->
